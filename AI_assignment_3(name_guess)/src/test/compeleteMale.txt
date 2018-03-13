@@ -1,0 +1,732 @@
+BOY'S TRAINING SET :
+
+Sohel Rana Sagor
+Ahiya Ahmed Rejman
+Anurudha Das Ayon
+Bhupen Chandra Sen
+Mifta Hur Rahman Fayez
+Arfa Ahmed
+Manna Ahmed
+Jubayed Ibna Sadique
+Sayed Golam Ehsani
+Shahnewaz Jalali
+Akikur Rahman Rabbi
+Abdul Hadi
+Ashraf - Ul - Alam Sani
+Hussain Ahmed
+Jahed Ahmad
+Rajwan Ahmed Chowdhury
+Shahanur Ahmed
+Syed Nahmad Ahmed
+Shofi Ahmed Chowdhury
+Tanvir Ahmed Saimon
+Nahif Ahmed
+Masum Ahmed
+Joglu Ahmed
+Olid Ahmed Chowdhury
+Sk. Md. Fahad Ahmed
+Afjal Ahmed
+Abaydur Rahman Titu
+Layek Ahmed
+Syed Tambir Ahmed
+Syed Bappi Ahmed
+Tarek Ahmed
+Abaydur Rahman Titu
+Ishtiaq Ahmed
+Mahbub Ahmed
+Imran Ahmed
+Sumel Ahmed Chowdhury
+Rouf Ahmed Abid
+Tofayel Ahmed
+Toufik Ahmed Jaigirdar
+Muinul Haque Numan
+Rezaul Haque
+Sheik Md. Maadul Hoque
+Emdadul Haque Chowdhury
+Tahmidul Haque
+Fozlul Haque Tipu
+Nishan Kanti Das Paplu
+Al- Zahi Chowdhury
+Sadi Mohammed Fahim
+Kojjol Kanti Dash
+Jhalak Khnti Das
+Muhammad Shafiqul Islam
+Mohammad Golam Ramij
+Jahid Hasan
+Ahsanul Hasan
+Abid Hasan
+Maruf Hasan
+Mainul Islam
+Mazadul Islam
+Forhadul Islam
+Asraful Islam
+MD. Musaraf Karim
+Gulam Md. Jamil
+Hifzur Rahman
+Hifjur Rahman Mahfuj
+Ashrafur Rahman
+Sadiqur Rahman
+Mahbubur Rahman
+Aklakur Rahman
+Sayed Sakibur Rahman
+Mahidur Rahman Runed
+Ataur Rahman Sajib
+Ashfaqur Rahman
+Joysen Das
+Chompu Lal Das
+Moynul Alam Chowdhury
+Shipu Kanto Das
+Tahmid Al Wadud
+Dipak Dash
+Alman Siddik Sawon
+Abdul Noor Al Masum
+Shakil Chowdhury
+Nazmus Salam Chowdhury
+Arif Chowdhury
+Kanick Dhar Chowdhury
+Mubin Malik Chowdhury
+Amir Hossain
+Kamran Hossain
+Tanvir Hossain
+Anwar Hussain
+Nadim Hussain
+Tanmoy Roy
+Faisal Amir Mohd Tarek
+Faesal Mahmud
+Bishwajit Paul
+Soumen Chakrobarty
+Joy Sarkar
+S.A. Toufiq
+Anup Bhattacharjee
+Shahin Miah
+Sahriar Emon Dalim
+Mohsin Khan Shobuj
+Rasel Bhuyan
+Liton Deb
+Shadman Sakib Turjo
+Rahul Choudhury
+Moniruzzaman Dulal
+Shree Mukul Talukdar
+Tanmoy Banik
+Saifuzzaman Amit
+Ashraful Iqbal Piyas
+Sagar Paul Zhinuk
+S M Akib Motahar
+Aktarujjaman
+Abu Jaher Sumon
+Nikunjo Mollik
+Uttam Halder
+Ruman Khan
+Saikat Mahaldar
+Emdad Husen Pappu
+A. M. Mahbub Rashid
+Ruhul Amin
+Jahangir Hussen
+Mitun Chakrabarty
+Md. Safwat Mahdi Rahat
+Md. Abdul Basith
+Md. Rezaul Islam
+Nayem Ahmed
+Al Imran Ahmed
+Mashuk Miah
+Syed Nabil Ahmed
+Emdad Hossain Azad
+Emran Hussen Emran
+Md. Abu Bakkor Siddik
+Tauqir Ahmed Rahi
+Md. Abdul Latif
+Khoyrul Islam
+Md. Numan Ahmed
+Al-Ashfar
+Sydur Rahman
+Arif Ahmed
+Md. Jubael Islam Nazrul
+Dulal Ahmed
+Rupon Kumar Das
+Md. Ratid Chowdhury
+Md. Saiful Islam
+Zahirul Alam Kajal
+Shahzahan Ahmed
+Kawser Ahmed
+Md. Abdur Rouf
+Biswajit Das Bappu
+Mahbub Alam
+Md. Mahfuzul Islam
+Ahmad Al Multajim
+Sadhin Das
+Md. Samiul Karim
+Belayet Husein Khan
+Sakib Ahmed Chowdhury
+Md. Arashul Siddiq
+Burhan Uddin
+Shaon Kanti Das
+Md. Amirul Haque Munna
+Anwar Hussen
+Md. Mahbub Hasan Dulo
+Md. Samaduzzaman Khan
+Atikur Rahman
+Md. Ihsanul Haque
+Musthakim Ahmed
+Syed Amel Ali
+Md. Monowar Hossain
+Kabir Ahmed
+Tufayel Ahmed Chowdhury
+Sofir Ahmed
+Md. Sahed Khan
+Nobel Das
+Sheikh Atiqul Haque Saber
+Jahangir Alam Ruman
+Pijus Dash
+Abidur Rahman Jaigirdar
+Siddiqur Rahman
+Md. Mazidur Rahman
+Md. Ashique Abdullah
+Abdul Motin
+Jehan Ahmed
+Muhammad Hussain Rana
+Mizan Ahmed
+Ikram Khan Shipon
+Abdullah Al mamun
+Md. Amran Hussain
+Muhammad Al - Amin
+Akramul Islam
+Md. Abu Sufian
+Azhar Hussain
+Md. Kamran Ahmed
+Sri Linkon Chandra Das
+Syed Rayhan Ahmed
+Musa Ahmed
+Sadikur Rahman Khaled
+Md. Foyzur Rahman
+Md. Nazmus Sakib Enam
+Tahmid Ahmed Chowdhury
+Md. Ashfaq Ahmod
+Musa Ahmed Tuhel
+Mustafizur Rahman Khan
+Abdullah Al Amin
+Shaykhul Hossain Opu
+Rahatul Islam Rahat
+Mahmudul Hasan
+Md. Delwar Hossain
+Salman Hossain
+Md. Emon Miah
+Forhan Ahmed Chowdhury
+Sakib Ahmed
+Md. Arif Romiz Pasha
+Mohammed Shahjahan
+Md. Sabbir Ahmed
+Koysor Ahmed
+Emdad Hussain Fahim
+Md. Zahirul Islam
+Md. Mutahar Hussien
+Tanvir Ahmed Koyes
+Kawsar Hussain
+Jhalak Das
+Shanku Chowdhury
+Turjo Dey Chowdhury
+Intisharul Islam Chowdhury
+Chowdhury Musaddek
+Saeidur Rahman Chowdhury
+Taufik Ahmed Chowdhury
+Ahmed Dider Rahat
+Fardayek Ahmed Chowdhry
+Tajul Islam Shahi
+Abadul Haque Khan
+Janik Lal Das
+Foyzur Rahman
+Answer Uddin
+Shakil Ahmed Munna
+Mir Lutfur Rahman
+Topu Dash Roy
+Shuvra Deb Das
+Sabuj Kanti Purkayastha
+Nur Nobi
+Polash Baidya
+Jani Sarkar
+Mridul Kanti Baidya
+Imtiaj Uddin Ahmed
+Sajedul Islam Suzon
+Muhit Miah
+Mir Golam Rabbanee Mirza
+Farhan Masud Buiya
+Rahul Kumar Chanda
+
+
+
+
+
+
+
+
+Md. Mazharul Islam Khan
+Muhammad Ashraful Alam
+Mohammad Abdul Ahad
+Mohammed Tazul Islam
+Md. Hasan Ahmed Noyon
+Md. Sahin Alam
+Md. Faizul Islam
+Md. Imad Hussain
+Md. Hridoy Hussain
+Md. Rifat Hasan
+Md. Hasan
+Asif Ahmed
+Md. Ismail Hossain Palash
+Md. Mahbub Hasan Dulon
+Mehadi Hasan Mennon
+Al - Mamun Shimu
+Rabindranath Das
+Tareq Ahmed Suhag
+Azharul Haque Chowdhury
+Al Amin Ahmed
+Md. Rejaul Karim
+Sorwar Ahmed
+Sondip Kumar Das
+Md. Nazrul Islam Sumon
+Md. Sowrav Islam
+Md. Abu Naser
+Abdullah-Al Masum Khan
+Md. Abu Salek
+Nurul Islam Chowdhury
+Rajat Kanta Das
+Al Amin Sheikh
+Ruhed Ahmed
+Sajid Ahmed
+Monsur Ahmed
+Md. Zillur Rahman Sama
+Md. Saruar Alam
+Aziz Ahmed Chowdhury
+Pritom Chowdhury
+Abu Sule Man
+Md. Moksudul Arefin
+Md. Aminul islam
+Md. Foyjur Rahman
+Md. Abdul Qaium
+
+
+
+Md. Tawhidul Islam
+Md. Zillur Rahman
+Md. Zia Uddin
+Mohammad Abdulah
+
+Mazid Mazidi
+Pranta Sarker
+Nayeem Wahid
+Rinku Sarker Apu
+Tuhin Raj
+Anupam Paul
+Anik Deb
+Pias Chakraborty
+T.M. Numan
+Thareque hussain
+Isfaq Rayhan
+Ripon Malakar
+Sujon Biswas
+Fakhqruddin Shamim
+Ayon Dey
+Biswaraj Dev
+Suranjit Biswas
+Sushanto Kumar Ghosh
+Shahriar Kabir Ripon
+Adib Shikder
+Aktar Husen
+Aungkon Deb
+S.M Sakib Saleh
+Syed Ahsan Sirat
+Ashish Deb
+Shudipto Howlader
+Mustak Nadim Sany
+Riaz Murshed Surhid
+Hridoy Ghoush Anik
+Mrinmoy Deb
+Debashish Deb
+Md. Selim Miah
+Md. Monayem Bokth Majumdar
+Md. Shafiul Azam
+Md. Razun Mia
+Sheakh Md. Saleh Ahmed
+Tanbirul Hasan Jawad
+Md. Islam Uddin
+Md. Shakhawat Hussen Chowdhury
+Md. Uzzal Molla
+Md. Sadekur Rahman
+Md. Jahidur Rahman
+Asraful Hussain
+Abdul Hanif Khan
+Abdullah Al Maruf
+Abu Taher Chowdhury
+Md. Mahbubur Rahman
+Fatema Moysan Alija
+Md. Abu Siddique
+Alokesh Malakar
+Hossain Ahmed
+Md. Jamil Hussain
+Mamunul Hasan
+Md. Fazlur Rahman
+Abu Ahsan Belayet
+Alimuzzaman Shakil
+Md. Mohiuddin Mizan
+Md. Nazim Uddin
+Md. Mazharul Alam
+Md. Shakhawat Hussen
+Md. Afsar Hossain Rayhan
+A.H.M. Tauhin Hossain Nazmul Hasan
+Md. Rezuan Ahmed
+Md. Alomgir Hossain
+Md. Abdullah Faruk Ruhi
+Abu Taher
+Abdul Latif
+Afzol Hussain
+Md. Ali Hossen Dipu
+Forhad Hussain
+Forhad Hussain Raju
+Abdullah Al Nahiyan Khan
+Md. Ruhul Amin Khan
+Md. Abdul Mohaimin Khan
+A.H.M. Tauhin Hossain
+Nazmul Hasan
+Azad Hossain
+Md. Tajul Islam
+Md. Ataur Rahman
+Md. Forhad Hossain
+Md. Kashshaf Rahman
+Naeem Uddin
+Nasir Uddin
+Md. Sueb Ahmed
+Hasan Ahmed
+Md. Fuhadul Hasan
+Md. Jabed Ahmed
+Abdul Hannan
+Md. Gulam Kibria
+Md. Mijanur Rahman
+Musleh Uddin
+Md. Rakib Ahmed
+Muhammad Qamarul Hasan
+Md. Kamrul Islam
+Md. Jahirul Islam
+Aksar Mohammed Juned
+Md. Ahsanul Karim Chy
+Minar Uddin
+Zashem Uddin
+Md. Saifur Rahman Chowdhury
+Khyrul Alom
+Md. Fahim Khan
+Ali Ahmed
+Md. Redwanur Rob Sayem
+Ammar Hussain
+Muhiminur Rahman Khan Mahi
+Juber Ahmmod Khan
+Rofi Khan
+Jahid Khan Nabab
+Yasir Ahmed Chowdhury
+Kawsar Ahmed
+Rumman Ahmed
+Zahed Ahmed
+Sajon Ahmed
+Mamun Ahmed
+Ragel Ahmed
+Rayhan Ahmed
+Jubayer Ahmed
+Naheyan Ahmed Imran
+Lijon Ahmed
+Mazahed Ahmed
+Zubair Ahmed Zehan
+Jakir Ahmed Rafi
+Tufayel Ahmed
+Farhatul Ahmed Rahat
+Shahin Ahmed
+Sumon Ahmed
+Towhid Ahmed Kowshik
+Syed Shoaib Ahmed
+Mahfuz Ahmed
+Fahim Ahmed
+Rahel Ahmed
+Kazi Misbah Ahmed
+Kamran Ahmed
+Esfakur Rahman
+Abdur Rahman
+Rizvi Rahman Rony
+Mutiur Rahman Mahi
+Saifur Rahman Sumon
+Oliur Rahman
+Mahmudur Rahman Jaber
+Mahmudur Rahman
+Motiur Rahman
+Imtiajur Rahman Tukon
+Hafizur Rahman
+Jahidur Rahman
+Nitai Pada Das
+Shuvra Jit Das
+Fazle Rabbi Rabbani
+Amit Chanda Bapon
+Pralab Kanti Das
+Rakhal Chandra Das
+Jibon Sharma
+Bishwajit Das
+Joydip Das
+Shishir Ranjan Das
+Sopon Kumar Das
+Anup Lal Das
+Dip Das
+Tonmoy Das
+Kamrul Islam
+Anamul Haque
+Ariful Islam
+Foukrul Islam
+Nikolas Haldar Uzzal
+Rahul Goph
+Sourabh Talukder
+Badhon Kumar
+Jolok Roy
+Akash Acharjoo
+Abdus Samad
+Muhaimin Ihfaz Sihab
+Partho Protim Majumdar
+Ruhul Amin Polash
+Husain Ahmad
+Khondoker Abdur Rob
+Shubhro Talukder
+Md. Ashik Ahmed
+Md. Al-Amin
+Md. Mahinur Rahman
+Md. Rimon Ahmed Mamun
+Shah Md. Hasan Mahmud
+Md. Mahimul Haque Ifthi
+Md. Tufayel Ahmed
+Md. Najmul Islam
+Mostofa Kawser Al-Azhar
+Md. Kawsar Ahmad
+Ahmed Al Hussain
+Md. Badruzzaman
+Md. Juel Ahmed
+Suktar Ali
+Md. Adil Hussain
+Md. Habibur Rahman Chowdhury
+Mohammed Kamrul Haque
+Md. Kamruzzaman Chowdhury
+Md. Nasrum Mubin Naim
+Md. Hasanul Islam
+Md. Abdul Kadir
+Md. Yamin Baksh
+J.M. Tanvir Hussain
+Md. Abu Taleb
+Md. Khairul Islam
+Iftekar Hossain
+Abu Bakar Muhammad Al Amin
+Md. Mushahidul Islam
+Md. Rezaul Kabir
+Md. Farid Uddin
+Md. Suhag Chowdhury
+Md. Rahel Ahmed
+Ali Hussain
+Md. Mominur Rahman
+Md. Abdul Barek Saju
+Shorif Uddin Tanu Miah
+Md. Sakhawath Hossain
+Md. Abul Hasan
+Syed Abdal Hussain
+Mohaimin Abdul Mutaka
+Md. Asikur Rahman Chowdhury
+Md. Salim Miah
+Md. Tanvir Ahmed
+Md. Suhrawar Hossain
+Md. Tariqul Islam
+Mohammad Babar Ali Khan
+Md. Mahbub Ahsan
+Md. Mazedul Haque Cho
+Md. Fahad Hussain
+Md. Muhidur Rahman
+Ruman Hussain
+Md. Mydul Islam Fahad
+Md. Shohidullah
+Md. Akthar Hossain Khan
+Md. Musfiqur Rahman Pir
+Shah Tofayel Ali
+Md. Bodrul Islam
+Mohammed Suhel Ahme
+Mohammed Suhel Ahmed
+Md. Habibur Rahman
+Md. Mizanur Rahaman
+Abdul Wadud Chowdhury
+Muhammad Karim Hossain
+Md. Abdul Hakim
+Md. Tofazzul Hosan
+Muhammad Abul Kashem
+Md. Rohul Amin
+Sahriar Alam Chowdhury
+Miah Md Monir Monjur
+Md. Maqsud Elahi
+Md. Sadikur Rahman Papon
+Shah Md. Sharful Abedin
+Md. Amdadul Haque
+Md. Emran Miah
+Md. Sabir Azad
+Md. Abul Hasnat
+Md. Mizanur Rahamn
+Abdullah Al Masum
+Md. Rafiqul Islam
+Abdul Alim Shah
+Md. Nur Islam
+Muhammad Azizul Haque
+Md. Shofiqul Islam Parvez
+Md. Afikul Islam
+Md. Amadul Ambia
+Md. Jakir Hossain
+Md. Oyesul Alom
+Md. Imdadul Haque
+Md. Aynul Haque
+Md. Shorif Ahmed
+Md. Shajahan Kibria
+Mobarak Hossain
+Md. Monirul Hasan Tanin
+Md. Shah Alam
+Md. Emad Uddin Jahangir
+Kazi Md. Kabir Hossain
+Md. Amjad Ullah
+Md. Jahedul Islam
+Md. Anisur Rahman
+Muhammad Abdullah Al
+Moha. Abdul Muhit
+Md. Bahar Uddin
+Md. Sadequr Rahman
+Md. Suhin Al Hasan
+Md. Riad Ahmed Chowdhury
+Md. Mahadi Hasan Nahid
+Al Mehdi Saadat Chowdhury
+Emran Hossain Munna
+Abdul Basit
+Abdul Goni
+Imdadul Haque Khaled
+Hossain Mohammad Ershad
+Md. kuddus Mia
+Jayed Ahmed
+Rubel Ahmed
+Numan Ahmed
+Saleh Ahmed Jubayer
+Fateh Ahmed
+Akter Hossen
+Oli Ahmed Mubasshir
+Mohammad Afzal
+Jahin Ahmed
+Sakib Ahmed Shaon
+Mahmudus Samad Maruf
+Shibbir Ahmed
+Mohammad Kamruzzama
+Nabid Ahmed Jaigirdar
+Shah Julhan Ahmed
+Mohammad Mursalen Choudhury
+Rahat Ahmed Shawon
+Khadem Mohammad Asad
+Riyad Mahmud
+Faysol Ahmed
+Mohammad Rubal Khan
+Yeamin Ahmed Chowdhury
+Asef Mahmud Tasin
+Muntasir Mahmud Yasin
+Syed Mahmud Musa
+Syed Mohammad Musa
+Syed Mostufa Musa
+Sairul Islam
+Tahmidul Islam Chowdhury
+Monjurul-Islam-Laskar
+Saidul Islam
+Emdadul Islam Talukder
+Adnan Islam
+Jahedul Islam
+Kamrul Hasan Fahim
+Kamrul Hasan
+Monsurul Hasan Jakaria
+Fojla Rabbe Hasan
+Mohibur Rahman
+Shafi Muhammed
+Shafiqur Rahman Fahad
+Shuhanur Rahman
+Mustafizur Rahman
+A.S.M Atiqur Rahman Joy
+Md Jiaur Rahman
+Fahadur Rahman
+Mustafijur Rahman
+Rajib Kanthi Talukder
+Mrinal Kanti Dey
+Sultan Ahammed
+Rubel Ahammed
+Fazle Rabbi Tarafdar
+Nripendra Kumar Debnat
+Pranab Kanti Sarker
+Tawhid Elahi
+Shimul Karmakar
+Shahedur Rahim Sujon
+Bodrul Amin
+Anup Bishwas
+Dipankar Deb
+Hifjullah Tanvir
+Mohammad Babar Ali
+Parijat Paul Sagar
+Sodruzzaman Nizu
+U Nue Ching
+Nilothpal Sarkar
+Arobindu Sarker
+Bishwanath Talukder
+Ajay Kumar Roy
+Humayun Kabir
+Somiran Talukder
+Biswajit Roy
+Dilip Chandro Bardhon
+Prasen Sutradhar
+Rajib Deb
+Saiful Hassan
+Golam Sarwar
+Jubair Bakht
+Mohan Roy
+Bipul Karmakar
+Shamuel Rabon
+Saidul Abbas Choudhury
+Palash Deb
+Pallab Bhattacharjee
+Tuhin Chowdhury
+Arup Roton Bormon
+Noruttam Das
+Hasib Zaman Khan
+Sarowar Hassain
+Sojib Wajed Joy
+Md. Foysal Ahmed
+Md. Nazmul Islam
+Md. Aminul Islam Khan
+Md. Shajahen Miah
+Md. Maidul Islam Naim
+Md. Shahed Ahmed
+Md. Sajidul Islam
+Md. Pabel Chowdhury
+Md. Abdus Samad
+Md. Sohel Mahbub
+Md. Mizanur Rahman
+Md. Mohsin Miah
+Md. Raju Ahmed
+Md. Sadek Khan
+Md. Abdul Aziz
+Md. Jabedul Miah
+Md. Ahsan Habib Leon
+Md. Fuyad Miah
+Md. Asad Uddin
+Md. Nure - Alom
+Md. Abdul Kadir Chowdhury
+Md. Mofojjul Haque
+Md. Imran Ahmed Emon
+Md. Anwar Hossain
+Md. Ruhul Amin
+Md. Rezaul Karim
+Md. Mozakkir Ali
+Md. Raqeeb Ahmed
+Md. Tanvir Bakth
+Md. Saifur Rahman
+Md. Aminur Rahman
+Md. Omar Hasan
+Md. Nurul Islam
+Md. Mahmudul Hasan
+Md. Ali Kamran
+Md. Humayun Rashid
+Md. Tajedul Haque
+Md. Sarwar Jahan
+Md. Asaduzzaman
+Md. Mamunur Rashid
+Md. Ashraful Islam
